@@ -1,0 +1,3 @@
+# GitHub Pages demo: every page carries <meta name="robots" content="noindex, nofollow">.
+User-agent: *
+Allow: /
